@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="about_group_text">This is the first application from Group 4:\n- Denis Nazarovs\n- Unda Žurevska\n- Lydia Kamynina\nAnd the application was developed by Lydia Kamynina.</string>
+</resources>
