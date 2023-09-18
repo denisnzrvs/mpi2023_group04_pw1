@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TokTik</string>
+    <string name="group_name">This is the first application from Group 4:</string>
+    <string name="group_member_names">Unda Žurevska\nLydia Kamynina\nDeniss Nazarovs</string>
+    <string name="app_developer">And the application was developed by Unda Žurevska</string>
+</resources>
